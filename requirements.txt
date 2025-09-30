@@ -1,0 +1,13 @@
+pandas
+numpy
+scikit-learn
+scipy
+matplotlib
+seaborn
+statsmodels
+pingouin
+ipykernel
+ipython
+jupyter
+jupyterlab
+gradio

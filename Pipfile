@@ -5,15 +5,20 @@ name = "pypi"
 
 [packages]
 pandas = "*"
+numpy = "*"
 scikit-learn = "*"
 scipy = "*"
 matplotlib = "*"
 seaborn = "*"
-ipykernel = "*"
-gradio = "*"
+statsmodels = "*"
 pingouin = "*"
+ipykernel = "*"
+ipython = "*"
+jupyter = "*"
+jupyterlab = "*"
 
 [dev-packages]
+ipykernel = "*"
 
 [requires]
-python_version = "3.9"
+python_version = "3.11"
