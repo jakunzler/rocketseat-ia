@@ -11,3 +11,7 @@ ipython
 jupyter
 jupyterlab
 gradio
+streamlit
+fastapi
+uvicorn
+joblib
